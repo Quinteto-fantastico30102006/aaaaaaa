@@ -7,9 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
         enunciado: "Qual é a linguagem de programação mais popular em 2024?",
-        alternativas: [
-            "JavaScript", 
-            "Python"
+        alternativas: ["JavaScript", "Python"
         ]
     },
     {
